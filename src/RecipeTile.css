@@ -1,0 +1,19 @@
+.recipeTile_img{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 4px;
+    align-items: baseline;
+}
+.recipeTile_img:hover{
+    cursor: pointer;
+}
+.recipeTile_name{
+    font-weight: 1000;
+    letter-spacing: 1px;
+    max-height: 20px;
+    font-family: Shadows Into Light;
+    font-size: 15px;
+    text-align: baseline;
+    margin: 12px 0px;
+}
